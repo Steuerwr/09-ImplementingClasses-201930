@@ -84,7 +84,7 @@ class Point(object):
         yd =  - self.y
         d = math.sqrt(xd ** 2 + yd ** 2)
         return d
-    
+
     def get_distance_traveled(self):
         self
 
